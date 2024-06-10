@@ -41,9 +41,13 @@ An interactive 3D scatter plot provides a comprehensive visual comparison, highl
 
 ### Residual Analysis
 A residuals plot shows the differences between actual and predicted prices, indicating that most errors are random with some outliers.
+![image](https://github.com/Daynecc6/Heston-Model/assets/103780036/764f9fe2-23ae-4ed1-9853-24e32b31f853)
+
 
 ## Conclusion
 The Heston model effectively captures overall market trends but requires further refinement to handle outliers and extreme market conditions. Future work could focus on adjusting model parameters, incorporating additional market factors, or exploring more complex stochastic models.
+![image](https://github.com/Daynecc6/Heston-Model/assets/103780036/1f1bb603-2ba7-42f0-87c1-1394c5f889f0)
+
 
 ## Dependencies
 - Python 3.x
